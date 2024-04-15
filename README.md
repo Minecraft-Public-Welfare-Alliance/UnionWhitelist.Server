@@ -1,2 +1,2 @@
-# passLicenceServer
-基于twisted框架的联盟通行证验证服务器，支持webhook
+# UnionWhiteist.Server
+联盟统一通行证服务器部分，基于twisted框架且支持Webhook。
